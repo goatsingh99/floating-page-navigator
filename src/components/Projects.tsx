@@ -32,14 +32,6 @@ const Projects = () => {
       liveDemo: "#",
       image: "/placeholder.svg",
     },
-    {
-      title: "Real-Time Chat Application",
-      description: "A messaging platform with real-time communication, user presence indicators, and file sharing capabilities.",
-      technologies: ["React", "Firebase", "WebSockets", "Tailwind CSS"],
-      github: "#",
-      liveDemo: "#",
-      image: "/placeholder.svg",
-    },
   ];
 
   return (
