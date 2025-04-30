@@ -15,7 +15,7 @@ const Hero = () => {
         <p className="text-gray-400 mb-4 font-medium">Hello, This is</p>
         <h1 className="text-5xl md:text-7xl font-bold mb-8">
           <span className="block sm:inline">Saksham</span>{" "}
-          <span className="block sm:inline">Agarwal</span>
+          <span className="block sm:inline">Mawari</span>
         </h1>
         <p className="text-lg md:text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
           I am a passionate Software Developer with a background in Computer Science, 

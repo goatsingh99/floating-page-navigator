@@ -33,7 +33,7 @@ const Footer = () => {
               <Mail size={20} />
             </a>
           </div>
-          <p className="text-gray-400">© 2025 Saksham Agarwal. All rights reserved.</p>
+          <p className="text-gray-400">© 2025 Saksham Mawari. All rights reserved.</p>
         </div>
       </div>
     </footer>
